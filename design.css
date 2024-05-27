@@ -1,0 +1,66 @@
+/* design.css */
+
+body {
+    font-family: Arial, sans-serif;
+    color: #fff;
+    background-color: #318CE7 ;
+    margin: 0;
+    padding: 0;
+    line-height: 1.6;
+}
+h1 {
+ color: #800000; /* Dark Red */
+    padding: 10px 0;
+}
+h2 {
+ color: #800000; /* Dark Red */
+    padding: 10px 0;
+ font-style: italic;
+}
+
+
+header {
+    background-color: #800000; /* Dark Red */
+    padding: 10px 0;
+}
+
+header table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+header td {
+    text-align: center;
+    padding: 10px;
+}
+
+header a {
+    color: #fff;
+    text-decoration: none;
+    font-size: 1.2em;
+}
+
+
+
+/* Main content styles */ TITRE
+h1 {
+    text-align: center;
+    color: #800000; /* Dark Red */
+    margin: 20px 0;
+}
+
+
+.introduction {
+    font-style: italic;
+}
+
+/* Link styles */
+a {
+    color: #800000; /* Dark Red */
+}
+
+a:hover {
+    color: #ff0000; /* Bright Red */
+}
+
+
